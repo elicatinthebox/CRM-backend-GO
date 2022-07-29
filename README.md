@@ -1,7 +1,10 @@
 
 # CRM Backend
 #### HTTP server with Go
-The project represents the backend of a customer relationship management (CRM) web application. 
+The project represents the backend of a customer relationship management (CRM) web application.
+
+Hosted at: [https://github.com/elisaromondia/CRM-backend-GO](https://github.com/elisaromondia/CRM-backend-GO)
+
 ## How to run
 Open your favorite **Terminal** and run these commands:
 
@@ -18,7 +21,7 @@ go test
 
 **Swagger APIs docs**, after launching the server it's possible to read the docs at:
 
-[http://localhost:3000/](http://localhost:3000/)
+[https://elisaromondia.github.io/CRM-backend-GO/](https://elisaromondia.github.io/CRM-backend-GO/)
 
 **or**
 
